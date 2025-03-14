@@ -19,7 +19,7 @@ This project uses machine learning to predict which products will become best se
 5. Run the notebook file.
 
 ## 💬 Contribution
-As this project is not in active development, contributions are not accepted at this time.
+As this project is not in active development, contributions are not accepted.
 
 ## ©️ License
 Please review the LICENSE file for details.
